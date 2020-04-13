@@ -1,0 +1,3 @@
+member_reg=command.MemberResister
+member_mod=command.MemberModify
+member_login=command.DoLogin
